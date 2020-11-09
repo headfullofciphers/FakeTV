@@ -5,10 +5,10 @@ This project purpose is to imitate TV as a simple line of defense against thieve
 
 The thought is to imitate real TV switched on (implicitly – being watched) by changing color, brightness and flickering. It has to trick burglars that there are people at home.
 
-The dea is to set a timer or perform few hours of 'lightning' after the dusk (discovered by light sensor).
+The idea is to set a timer or perform few hours of 'lightning' after the dusk (discovered by light sensor).
 
 
 
 If you want to find our more, please visit:
 
-https://headfullofciphers.com/2020/06/24/project-fake-tv-simulator/(otworzy się w nowej zakładce)
+https://headfullofciphers.com/2020/06/24/project-fake-tv-simulator/
