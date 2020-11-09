@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 12 17:08:25 2020
-
-@author: Maciej
-"""
 
 from yeelight import Bulb
 from time import sleep
